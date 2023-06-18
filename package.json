@@ -1,0 +1,17 @@
+{
+  "name": "gladiator_arena_dashboard",
+  "version": "1.0.0",
+  "description": "The dashboard for my discord: bot GladiatorArena",
+  "main": "cd front-end/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord bot",
+    "gladiator",
+    "arena",
+    "gladiator arena"
+  ],
+  "author": "gitlep3",
+  "license": "ISC"
+}
